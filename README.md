@@ -20,7 +20,6 @@ Color-based appearance descriptor with incremental clustering:
 | Total Events       | 558   |
 | Unique Visitors    | 92    |
 | Events per Visitor | 6.07  |
-|                    |       |
 
 ## Usage
 
@@ -50,4 +49,3 @@ python visitor_detection.py --threshold 0.25 --output results.csv
 - `numpy>=1.21.0`
 - `opencv-python>=4.5.0`
 - `pandas>=1.3.0`
-# AlwaysAI-Assessment

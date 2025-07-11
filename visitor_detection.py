@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Visitor Detection Algorithm - Simple color-based approach
 """
